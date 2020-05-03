@@ -1,1 +1,1 @@
-[This is profile image(https://octodex.github.com/images/yaktocat.png)]
+[This is profile image](https://octodex.github.com/images/yaktocat.png)
